@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi 👋, I'm Uzaif Shaikh
 
-<!--
-**1uzaif/1uzaif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 MSc Cybersecurity | ☁️ Cloud & IT Support Engineer | 💻 Tech Enthusiast
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about Web-Pentesting, Cloud Security, Incident Response, and Network Troubleshooting
+📫 How to reach me: ✉️ Email – zyaffirl@gmail.com
+
+⚡ Fun Fact:
+Led a security-focused project in my first job, improving system uptime and security for clients.  
+
+
+## 🧰 Languages and Tools
+`Python` `SQL` `Linux` `Windows` `Nmap` `Wireshark` `Nessus` `Burp Suite`  
+`HTML` `CSS` `Bash` `Active Directory` `Metasploit` `Splunk`  
+`Photoshop` `PostgreSQL` `Java (Basics)` `C` `C++`
