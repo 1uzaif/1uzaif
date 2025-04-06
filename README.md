@@ -4,7 +4,9 @@
 
 
 💬 Ask me about Web-Pentesting, Cloud Security, Incident Response, and Network Troubleshooting
-📫 How to reach me: ✉️ Email – zyaffirl@gmail.com
+📫 How to reach me: 
+
+✉️ Email – zyaffirl@gmail.com
 
 ⚡ Fun Fact:
 Led a security-focused project in my first job, improving system uptime and security for clients.  
