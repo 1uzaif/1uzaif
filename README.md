@@ -20,3 +20,4 @@ Led a security-focused project in my first job, improving system uptime and secu
 `Python` `SQL` `Linux` `Windows` `Nmap` `Wireshark` `Nessus` `Burp Suite`  
 `HTML` `CSS` `Bash` `Active Directory` `Metasploit` `Splunk`  
 `Photoshop` `PostgreSQL` `Java (Basics)` `C` `C++`
+![image](https://github.com/user-attachments/assets/8d176857-52e7-4f38-9dba-6713ba83f828)
