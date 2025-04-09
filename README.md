@@ -12,8 +12,7 @@
 
 ⚡ Fun Fact:
 Led a security-focused project in my first job, improving system uptime and security for clients.  
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3731647" style='border:none;'></iframe>
-
+ 
 
 
 📫 Reach me:
