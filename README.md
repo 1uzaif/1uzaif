@@ -9,7 +9,9 @@
 
 
 📫 How to reach me: 
+
 ✉️ Email – zyaffirl@gmail.com
+Linkedin- https://www.linkedin.com/in/uzaifs/
 
 ⚡ Fun Fact:
 
